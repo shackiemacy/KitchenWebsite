@@ -21,5 +21,11 @@
       h1.title:hover{
           text-decoration: overline;
           color: #a52a2a75;
-          transition: ease-in-out;
+          transition: ease-in-out .7s;
+      }
+
+      /* navigation bar */
+      .top-menu{
+          /* background-color: brown;assigning brown color */
+          overflow 
       }
